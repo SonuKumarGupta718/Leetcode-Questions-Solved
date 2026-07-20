@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SonuKumarGupta718/Leetcode-Questions-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/SonuKumarGupta718/Leetcode-Questions-Solved/tree/master/0014-longest-common-prefix) |
+| [0443-string-compression](https://github.com/SonuKumarGupta718/Leetcode-Questions-Solved/tree/master/0443-string-compression) |
 ## Trie
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SonuKumarGupta718/Leetcode-Questions-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/SonuKumarGupta718/Leetcode-Questions-Solved/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
