@@ -9,7 +9,7 @@ class Solution {
         if(sum==target){
             arr[0]=l+1;
             arr[1]=r+1;
-            return arr;
+            break;
         }
         else if(sum<target){
             l++;
